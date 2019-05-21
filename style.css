@@ -1,0 +1,39 @@
+#div1 {
+    background-color: #4eeaff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 15px;    
+   
+}
+#age {
+    font-size: 13px;
+
+}
+#img {
+   padding-top: 0px; 
+   border: solid 5px white ;
+} 
+#titre {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #4eeaff;
+
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4eeaff;
+}
+#div2 {
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+#div3{
+    background-color: #4eeaff;
+    padding: 25px
+}
+ul{
+    padding-left: 150px;
+};
+
